@@ -23,13 +23,13 @@ loading_bg:
 # 可以调整显示顺序
 # 图标调用 font-awesome 4.7
 social:
-  enable: false
+  enable: true
 social_links:
   # fab fa-twitter: /
   # fab fa-facebook-square: /
-  # fab fa-github: https://github.com/Chengbo-Wang
-  # fas fa-envelope: mailto:[wangchb@hnu.edu.cn]
-  # fas fa-graduation-cap: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN
+  fab fa-github: https://github.com/Chengbo-Wang
+  fas fa-graduation-cap: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN
+  fas fa-envelope: mailto:[wangchb@hnu.edu.cn]
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
   # fab fa-weibo: /
@@ -44,8 +44,8 @@ e_social:
   enable: true
 e_social_links:
   wangchb@hnu.edu.cn: mailto:[wangchb@hnu.edu.cn] || fas fa-envelope
-  Google Scholar: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN || fas fa-graduation-cap
-  GitHub: https://github.com/Chengbo-Wang || fab fa-github
+  # Google Scholar: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN || fas fa-graduation-cap
+  # GitHub: https://github.com/Chengbo-Wang || fab fa-github
 
   # Github: https://github.com/Chengbo-Wang || fab fa-github
   # Google Scholar: / || fas fa-graduation-cap
