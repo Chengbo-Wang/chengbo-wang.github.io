@@ -16,7 +16,7 @@ order: 3
     <div class="pub-authors">
       <a class="link-blue" href="https://chengbo-wang.github.io/"><strong>Chengbo Wang*</strong></a>,
       <a class="link-blue" href="https://guozheng-ma.github.io/" >Guozheng Ma</a>,
-      Yifei Xue,
+      Yifei Xue, and
       <a class="link-blue" href="https://yizhenlao.github.io/">Yizhen Lao</a>
     </div>
     <div class="pub-venue">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</div>
