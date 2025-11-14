@@ -5,15 +5,15 @@ avatar: /img/avatar.jpg
 author: 'Chengbo Wang'
 author_bio: 'Biography here.'
 
-since: 2020
+since: 2025
 
 # Top Menu 顶部菜单
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
+  About Me: /
+  News: /#News
   Publications: /#Publications
-  About: /
-  # Blog: https://phower.me
 
 # flink picture will load if avator link calls on error
 loading_bg:
