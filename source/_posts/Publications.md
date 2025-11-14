@@ -5,7 +5,7 @@ tags:
 academia: true
 order: 3
 ---
-# Publications
+### Publications
 
 <div class="publication-item">
   <div class="pub-thumbnail">

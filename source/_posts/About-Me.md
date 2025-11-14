@@ -6,7 +6,7 @@ order: 1
 tags:
 ---
 
-# About Me
+### About Me
 I am a first-year Ph.D. student at the [School of Design](http://design.hnu.edu.cn/index.htm), [Hunan University](https://www-en.hnu.edu.cn/), under the supervision of Professor [Yizhen Lao](https://yizhenlao.github.io/). 
 
 I have broad interests in computer vision and machine learning, with a current focus on 3D vision.
