@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /about_me/me.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Chengbo Wang'
-author_bio: 'Biography here.'
+author_bio: 'Onward and Upward!'
 
 since: 2025
 
@@ -29,7 +29,7 @@ social_links:
   # fab fa-facebook-square: /
   fab fa-github: https://github.com/Chengbo-Wang
   fas fa-graduation-cap: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN
-  fas fa-envelope: mailto:[wangchb@hnu.edu.cn]
+  fas fa-envelope: mailto:wangchb@hnu.edu.cn
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
   # fab fa-weibo: /
@@ -43,10 +43,8 @@ social_links:
 e_social:
   enable: true
 e_social_links:
-  wangchb@hnu.edu.cn: mailto:[wangchb@hnu.edu.cn] || fas fa-envelope
+  wangchb@hnu.edu.cn: mailto:wangchb@hnu.edu.cn || fas fa-envelope
   # Google Scholar: https://scholar.google.com/citations?user=jMGdjdkAAAAJ&hl=zh-CN || fas fa-graduation-cap
-  # GitHub: https://github.com/Chengbo-Wang || fab fa-github
-
   # Github: https://github.com/Chengbo-Wang || fab fa-github
   # Google Scholar: / || fas fa-graduation-cap
   # ORCID: / || fab fa-orcid
