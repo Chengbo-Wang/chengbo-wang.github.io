@@ -101,4 +101,45 @@ $(function () {
         });
     });
 
+    // dark mode toggle
+    (function() {
+        var THEME_KEY = 'academia-theme';
+        var $icons = $('.theme-toggle i');
+        var $favicon = $('link[rel*="icon"]');
+        var saved = localStorage.getItem(THEME_KEY);
+
+        function setIcon(dark) {
+            $icons.removeClass('fa-moon fa-sun').addClass(dark ? 'fa-sun' : 'fa-moon');
+        }
+
+        function setFavicon(dark) {
+            $favicon.attr('href', dark ? '/img/favicon_dark.svg' : '/img/favicon.svg');
+        }
+
+        if (saved === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            setIcon(true);
+            setFavicon(true);
+        }
+
+        $('.theme-toggle').on('click', function() {
+            var html = document.documentElement;
+            var dark = !html.hasAttribute('data-theme');
+
+            $icons.css({ transform: 'scale(0)', opacity: '0' });
+            setTimeout(function() {
+                if (dark) {
+                    html.setAttribute('data-theme', 'dark');
+                    localStorage.setItem(THEME_KEY, 'dark');
+                } else {
+                    html.removeAttribute('data-theme');
+                    localStorage.setItem(THEME_KEY, 'light');
+                }
+                setIcon(dark);
+                setFavicon(dark);
+                $icons.css({ transform: 'scale(1)', opacity: '1' });
+            }, 150);
+        });
+    })();
+
 })

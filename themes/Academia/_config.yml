@@ -1,4 +1,4 @@
-favicon: /img/favicon.png
+favicon: /img/favicon.svg
 # Change to your profile picture
 avatar: /about_me/me.jpg
 # if author sets in hexo_config, this string doesn't work
