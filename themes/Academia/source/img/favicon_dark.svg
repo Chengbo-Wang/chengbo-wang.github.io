@@ -1,0 +1,22 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g0" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="50%" y1="100%" x2="50%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <polygon points="60,64 68,52 12,52" fill="url(#g0)" stroke="#fff" stroke-width="0.6"/>
+  <polygon points="60,64 68,52 40,10" fill="url(#g1)" stroke="#fff" stroke-width="0.6"/>
+  <polygon points="60,64 12,52 40,10" fill="url(#g2)" stroke="#fff" stroke-width="0.6"/>
+  <line x1="60" y1="64" x2="68" y2="52" stroke="#fff" stroke-width="1"/>
+  <line x1="60" y1="64" x2="12" y2="52" stroke="#fff" stroke-width="1"/>
+  <line x1="60" y1="64" x2="40" y2="10" stroke="#fff" stroke-width="1"/>
+</svg>
