@@ -9,12 +9,38 @@ order: 3
 
 <div class="publication-item">
   <div class="pub-thumbnail">
+    <img src="/publication/Exploration_from_3DGS_BlurTrap/explore_from_3dgs_blur_trap.png" alt="explore_gs">
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting</div>
+    <div class="pub-authors">
+      <a class="link-blue" href="https://chengbo-wang.github.io/"><strong>Chengbo Wang</strong></a>,
+      <a class="link-blue" href="https://guozheng-ma.github.io/">Guozheng Ma</a>,
+      Jinhong Wu,
+      Tie Ji, and
+      <a class="link-blue" href="https://yizhenlao.github.io/">Yizhen Lao</a>
+    </div>
+    <div class="pub-links">
+      <a href="https://chengbo-wang.github.io/ExploreGS/">Project</a>
+      /
+      <a href="https://github.com/Chengbo-Wang/ExploreGS">Code</a>
+      /
+      <a href="https://arxiv.org/pdf/2607.17965">Paper</a>
+      /
+      <a href="https://arxiv.org/abs/2607.17965">arXiv</a>
+    </div>
+  </div>  
+</div>
+
+
+<div class="publication-item">
+  <div class="pub-thumbnail">
     <img src="/publication/group_training/iccv25_group_training.png" alt="iccv25">
   </div>
   <div class="pub-content">
     <div class="pub-title">Faster and Better 3D Splatting via Group Training</div>
     <div class="pub-authors">
-      <a class="link-blue" href="https://chengbo-wang.github.io/"><strong>Chengbo Wang*</strong></a>,
+      <a class="link-blue" href="https://chengbo-wang.github.io/"><strong>Chengbo Wang</strong></a>,
       <a class="link-blue" href="https://guozheng-ma.github.io/" >Guozheng Ma</a>,
       Yifei Xue, and
       <a class="link-blue" href="https://yizhenlao.github.io/">Yizhen Lao</a>
