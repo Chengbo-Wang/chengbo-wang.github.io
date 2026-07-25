@@ -21,9 +21,9 @@ order: 3
       <a class="link-blue" href="https://yizhenlao.github.io/">Yizhen Lao</a>
     </div>
     <div class="pub-links">
-      <a href="https://chengbo-wang.github.io/ExploreGS/">Project</a>
+      <a href="https://chengbo-wang.github.io/Exploration-for-GS/">Project</a>
       /
-      <a href="https://github.com/Chengbo-Wang/ExploreGS">Code</a>
+      <a href="https://github.com/Chengbo-Wang/Exploration-for-GS">Code</a>
       /
       <a href="https://arxiv.org/pdf/2607.17965">Paper</a>
       /
